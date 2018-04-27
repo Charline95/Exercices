@@ -1,8 +1,11 @@
-/* Idée de projets */
+/* Idées de projets */
 
 - Blog d'exposition de mes photos
 - Site de partage de recettes de cuisine
-- Site de vente en ligne de créations
+- Site de vente en ligne de créations manuelles 
 
-/* Peut être que d'autres idées viendront par la suite. En tout cas je l'espère parce que 
-pour l'instant ce n'est pas terrible. */
+/* Le but final */
+
+Me créer une certaine expérience même si celle-ci est fictive puisque pas réalisée en entreprise pour,
+à terme pouvoir prétendre à un poste dans le domaine informatique et surtout prouver que je suis riche 
+de bon nombre de compétences. 
