@@ -37,6 +37,7 @@ questions ou bien me faire des suggestions de lieux à visiter par exemple
 /* Page d'accueil */ 
 
     - Recense des extraits des derniers articles 
+    - Présentation du blog et de ma passion pour la photo
 
 /* Pied de pages */ 
 
@@ -49,3 +50,8 @@ questions ou bien me faire des suggestions de lieux à visiter par exemple
     - Archives
     - Calendrier
     - Barre de recherche
+    
+/* En-tête */ 
+    
+    - Afficher le titre, et un sous-titre (une citation par exemple)
+    - Exposer un logo (pour rendre le projet un peu plus réaliste)
