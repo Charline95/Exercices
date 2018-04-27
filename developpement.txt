@@ -25,3 +25,8 @@ questions ou bien me faire des suggestions de lieux à visiter par exemple
 /* Commentaires */ 
 
     - Commentaires ouverts uniquement aux abonnés 
+
+/* Visuel du blog */
+
+    - Menu principal avec ses sous-menus pour afficher les différentes catégories
+    - Carroussel de photos pour donner un aperçu aux visiteurs du contenu du site
