@@ -1,0 +1,8 @@
+/* Idée de projets */
+
+- Blog d'exposition de mes photos
+- Site de partage de recettes de cuisine
+- Site de vente en ligne de créations
+
+/* Peut être que d'autres idées viendront par la suite. En tout cas je l'espère parce que 
+pour l'instant ce n'est pas terrible. */
