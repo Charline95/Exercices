@@ -1,0 +1,27 @@
+/* Développement du projet : Blog d'exposition de mes photos */
+
+/* Création des pages */ 
+
+    - Accueil du site : Présentation du projet
+    - À Propos : Petite présentation de moi-même avec une photo 
+    - Contact : Formulaire de contacte pour les personnes qui souhaiteraient me poser des 
+questions ou bien me faire des suggestions de lieux à visiter par exemple
+    - Créer des articles concernant les photos qui représentent des lieux de visites 
+    - Regrouper les articles par catégories 
+    
+/* Différentes catégories  possibles */
+
+    - Parcs d'attractions
+    - Sites historiques
+    - Parcs animaliers et naturels
+    - Paysages
+    
+/* Formulaire de contact */ 
+
+    - Formulaire clair et conscis 
+    - Identifiant et mail obligatoire
+    - Zone de texte pour l'objet du contact
+    
+/* Commentaires */ 
+
+    - Commentaires ouverts uniquement aux abonnés 
